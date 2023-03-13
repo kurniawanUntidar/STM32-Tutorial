@@ -1,0 +1,82 @@
+2023-03-13 22:38:36,242 [INFO] Activator:179 - 
+
+
+2023-03-13 22:38:36,242 [INFO] Activator:180 - !SESSION log4j initialized
+2023-03-13 22:38:59,337 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.1050048736 uses a null category that is invalid in its context. The option was ignored.
+2023-03-13 22:38:59,430 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.1059900216 uses a null category that is invalid in its context. The option was ignored.
+2023-03-13 22:39:07,827 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:39:07,827 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:39:07,827 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:39:23,580 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-03-13 22:39:23,580 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-03-13 22:39:23,580 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2023-03-13 22:39:34,987 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:39:34,988 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:39:34,988 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:39:40,487 [INFO] Activator:179 - 
+
+
+2023-03-13 22:39:40,487 [INFO] Activator:180 - !SESSION log4j initialized
+2023-03-13 22:39:41,797 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.1050048736 uses a null category that is invalid in its context. The option was ignored.
+2023-03-13 22:39:41,927 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.1059900216 uses a null category that is invalid in its context. The option was ignored.
+2023-03-13 22:39:45,117 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:39:45,117 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:39:45,117 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:40:05,819 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-03-13 22:40:05,819 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-03-13 22:40:05,819 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2023-03-13 22:43:15,356 [ERROR] ApiDbMcu:1619 - Can't use Application install path:
+2023-03-13 22:43:17,634 [WARN] RulesReader:63 - Compatibility file://mcu/compatibility.xml not found
+2023-03-13 22:44:31,613 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Warning: NLS missing message: ExternalToolsPreferencePage_External_tool_project_builders_migration_2 in: org.eclipse.ui.externaltools.internal.ui.ExternalToolsUIMessages
+2023-03-13 22:44:31,613 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Warning: NLS missing message: ExternalToolsPreferencePage_Prompt_before_migrating_3 in: org.eclipse.ui.externaltools.internal.ui.ExternalToolsUIMessages
+2023-03-13 22:44:31,624 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Warning: NLS missing message: ExternalToolsPreferencePage_1 in: org.eclipse.ui.externaltools.internal.ui.ExternalToolsUIMessages
+2023-03-13 22:45:30,703 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:45:30,703 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:45:30,703 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:45:31,303 [INFO] JxBrowserEngine:114 - Initiate JxBrowser Engine with user profile folder
+2023-03-13 22:45:35,243 [WARN] WebAppUi:336 - Updater plugin not available.
+2023-03-13 22:45:35,743 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2023-03-13 22:51:48,132 [INFO] Activator:179 - 
+
+
+2023-03-13 22:51:48,132 [INFO] Activator:180 - !SESSION log4j initialized
+2023-03-13 22:51:48,862 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.1050048736 uses a null category that is invalid in its context. The option was ignored.
+2023-03-13 22:51:49,012 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.1059900216 uses a null category that is invalid in its context. The option was ignored.
+2023-03-13 22:52:03,936 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:52:03,946 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:52:03,946 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:52:15,255 [ERROR] ApiDbMcu:1619 - Can't use Application install path:
+2023-03-13 22:52:17,528 [WARN] RulesReader:63 - Compatibility file://mcu/compatibility.xml not found
+2023-03-13 22:52:24,733 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-03-13 22:52:24,733 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-03-13 22:52:24,733 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2023-03-13 22:54:38,165 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:54:38,165 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:54:38,165 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:54:38,165 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:54:38,165 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 22:54:38,165 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:08:52,619 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:08:52,619 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:08:52,619 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:12:39,858 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:12:39,858 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:12:39,858 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:28:41,219 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:28:41,220 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:28:41,220 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:28:41,246 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:28:41,246 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:28:41,246 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:29:10,475 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:29:10,475 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:29:10,475 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:29:14,090 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:29:14,090 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:29:14,090 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:39:25,371 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:39:25,371 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:39:25,371 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2023-03-13 23:39:25,886 [INFO] JxBrowserEngine:114 - Initiate JxBrowser Engine with user profile folder
+2023-03-13 23:39:29,805 [WARN] WebAppUi:336 - Updater plugin not available.
+2023-03-13 23:39:30,234 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
